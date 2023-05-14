@@ -17,7 +17,6 @@ function Homework(props) {
   //done handlechange
   function handleChange(event) {
     const { name, value } = event.target;
-    console.log(name, "ISISI", value);
     setHomeworkObj((prev) => {
       return { ...prev, [name]: value };
     });
@@ -93,25 +92,25 @@ function Homework(props) {
         </div>
       </form>
 
-      <button onClick={handleDel}>
+      <button title="Delete" onClick={handleDel}>
         <span>
           <DeleteOutlineIcon />
         </span>
       </button>
 
-      <button onClick={handleViewOpt}>
+      <button title="View due Date" onClick={handleViewOpt}>
         <span>
           <CardTravel />
         </span>
       </button>
 
-      <button onClick={handleModify}>
+      <button title="Modify" onClick={handleModify}>
         <span>
           <Create />
         </span>
       </button>
 
-      <button onClick={handleMarkasCompleted}>
+      <button title="Mark as completed" onClick={handleMarkasCompleted}>
         <span>
           <OutlinedFlag />
         </span>
