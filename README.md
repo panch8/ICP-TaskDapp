@@ -1,28 +1,41 @@
 # homeworkApp
 
-Welcome to your new homeworkApp project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+# TASKDAPP
 
-To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
+Day 6 project on motoko-bootcamp. 
 
-To learn more before you start working with homeworkApp, see the following documentation available online:
+## community call
 
-- [Quick Start](https://internetcomputer.org/docs/current/developer-docs/quickstart/hello10mins)
-- [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/build/install-upgrade-remove)
-- [Motoko Programming Language Guide](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/motoko/)
-- [Motoko Language Quick Reference](https://internetcomputer.org/docs/current/references/motoko-ref/)
-- [JavaScript API Reference](https://erxue-5aaaa-aaaab-qaagq-cai.raw.ic0.app)
+I have started this project thinking i would be able to finish it in just one day... but Noot,
 
-If you want to start working on your project right away, you might want to try the following commands:
+# Let me PRESENT YOU "THE" TASK Dapp, 
 
-```bash
-cd homeworkApp/
-dfx help
-dfx canister --help
-```
+### Fully Featured Must be:
+### Fully on-chain task keeper app.
+### internet Identity login. enabling access to your private task dashboard. 
+### Private caller data. your Tasks are safe.
+### shared task feed within a team.
+
+
+## Project is really made in hurry, lot of refactor needed, And BUGGY haha. but still enjoyable.
+
+## FEEL FREE TO CONTRIBUTE... IF we build it Together we share the price!!! 🏆🏆🏆
+
+# Fair enough =)
+
+
+#Live network URL here https://2a2b2-xiaaa-aaaao-ajlkq-cai.icp0.io/
+
+
+
+
+
+
+
 
 ## Running the project locally
 
-If you want to test your project locally, you can use the following commands:
+If you want to test the project locally, you can use the following commands:
 
 ```bash
 # Starts the replica, running in the background
