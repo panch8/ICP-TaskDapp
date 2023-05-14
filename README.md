@@ -23,6 +23,9 @@ I have started this project thinking i would be able to finish it in just one da
 
 # Fair enough =)
 
+Im a bit tired, so i will stop here if anyone wants to submmit collaborative changes.. tomorrow before deadline i can merge PRs.
+
+I'm not sure why, data persist through upgrades, but on mainnet cant fetch.. 
 
 #Live network URL here https://2a2b2-xiaaa-aaaao-ajlkq-cai.icp0.io/
 
